@@ -53,10 +53,23 @@ public extension DeviceGuruImplementation {
         if (hardwareString == "Watch6,8") { return .apple_watch_series_7_41_cellular }
         if (hardwareString == "Watch6,9") { return .apple_watch_series_7_45_cellular }
         if (hardwareString == "Watch7,1") { return .apple_watch_series_9_41 }
+        if (hardwareString == "Watch7,10") { return .apple_watch_series_10_42_cellular }
+        if (hardwareString == "Watch7,11") { return .apple_watch_series_10_46_cellular }
+        if (hardwareString == "Watch7,12") { return .apple_watch_ultra_3 }
+        if (hardwareString == "Watch7,13") { return .apple_watch_se_3g_40 }
+        if (hardwareString == "Watch7,14") { return .apple_watch_se_3g_44 }
+        if (hardwareString == "Watch7,15") { return .apple_watch_se_3g_40_cellular }
+        if (hardwareString == "Watch7,16") { return .apple_watch_se_3g_44_cellular }
+        if (hardwareString == "Watch7,17") { return .apple_watch_series_11_42 }
+        if (hardwareString == "Watch7,18") { return .apple_watch_series_11_46 }
+        if (hardwareString == "Watch7,19") { return .apple_watch_series_11_42_cellular }
         if (hardwareString == "Watch7,2") { return .apple_watch_series_9_45 }
+        if (hardwareString == "Watch7,20") { return .apple_watch_series_11_46_cellular }
         if (hardwareString == "Watch7,3") { return .apple_watch_series_9_41_cellular }
         if (hardwareString == "Watch7,4") { return .apple_watch_series_9_45_cellular }
         if (hardwareString == "Watch7,5") { return .apple_watch_ultra_2 }
+        if (hardwareString == "Watch7,8") { return .apple_watch_series_10_42 }
+        if (hardwareString == "Watch7,9") { return .apple_watch_series_10_46 }
         if (hardwareString == "arm64") { return .simulator }
         if (hardwareString == "i386") { return .simulator }
         if (hardwareString == "iPad1,1") { return .iPad }

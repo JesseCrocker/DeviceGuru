@@ -211,6 +211,19 @@ public enum Hardware {
     case apple_watch_series_9_41_cellular
     case apple_watch_series_9_45_cellular
     case apple_watch_ultra_2
+    case apple_watch_series_10_42
+    case apple_watch_series_10_46
+    case apple_watch_series_10_42_cellular
+    case apple_watch_series_10_46_cellular
+    case apple_watch_ultra_3
+    case apple_watch_se_3g_40
+    case apple_watch_se_3g_44
+    case apple_watch_se_3g_40_cellular
+    case apple_watch_se_3g_44_cellular
+    case apple_watch_series_11_42
+    case apple_watch_series_11_46
+    case apple_watch_series_11_42_cellular
+    case apple_watch_series_11_46_cellular
 
     case apple_tv_1g
     case apple_tv_2g
